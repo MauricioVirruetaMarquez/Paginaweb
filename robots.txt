@@ -1,1 +1,4 @@
+User-agent: *
+Disallow:
+
 Sitemap: https://mauriciovirruetamarquez.github.io/Paginaweb/sitemap.xml
